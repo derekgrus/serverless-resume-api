@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Derek Russ",
+    "label": "DevOps Dude",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
-    "summary": "A summary of John Doe…",
+    "email": "derek.russ@grundens.com",
+    "phone": "410-829-4134",
+    "url": "https://www.grundens.com",
+    "summary": "A story about a DevOps Dude named Derek",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "0704 American way",
+      "postalCode": "MD 21620",
+      "city": "Baltimore",
       "countryCode": "US",
-      "region": "California"
+      "region": "MD"
     },
     "profiles": [{
       "network": "Twitter",

@@ -6,7 +6,7 @@ param location string
 
 
 resource resourceGroup 'Microsoft.Resources/resourceGroups@2020-06-01' = {
-    name: 'rg-file-update-api'
+    name: 'rg-file-update-api-dev-01'
     location: location
 }
 
